@@ -43,8 +43,23 @@ public class DropdownClass {
 		  System.out.println(b);
 		
 	}
-
 	
+	}
+	private void firstMethod() {
+		int a = 3;
+	    System.out.println(a);
+
+	}
+	private void secondMethod() {
+		int b =5;
+		System.out.println(b);
+	
+	}
+	private void thirdMethod() {
+		int c =6;
+		System.out.println(c);
+	
+
 	}
 
 }
